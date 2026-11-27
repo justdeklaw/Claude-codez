@@ -1,0 +1,7 @@
+projects/*/footage/
+projects/*/output/
+*.mp4
+*.mov
+*.wav
+__pycache__/
+.env
